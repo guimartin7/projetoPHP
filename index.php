@@ -44,23 +44,23 @@
             <p class="Textos"> Selecione uma das categorias abaixo:</p>
             <div class="conteudo">
                 <div class="opcao">
-                    <a href="<?= APP ?>/auto.php" class="btn btn-primary">Automoveis</a>
+                    <a href="<?= APP ?>auto.php" class="btn btn-primary">Automoveis</a>
                 </div>
                 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
                 <div class="opcao">
-                <a href="<?= APP ?>/auto.php" class="btn btn-primary">Imobiliario</a>
+                <a href="<?= APP ?>imobiliario.php" class="btn btn-primary">Imobiliario</a>
                 </div>
                 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
                 <div class="opcao">
-                <a href="<?= APP ?>/auto.php" class="btn btn-primary">Alimentos</a>
+                <a href="<?= APP ?>alimentos.php" class="btn btn-primary">Alimentos</a>
                 </div>
                 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
                 <div class="opcao">
-                <a href="<?= APP ?>/auto.php" class="btn btn-primary">Saúde</a>
+                <a href="<?= APP ?>saude.php" class="btn btn-primary">Saúde</a>
                 </div>
                 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
                 <div class="opcao">
-                <a href="<?= APP ?>/auto.php" class="btn btn-primary">Dropshipping</a>
+                <a href="<?= APP ?>dropshipping.php" class="btn btn-primary">Dropshipping</a>
                 </div>
             </div>
             &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
