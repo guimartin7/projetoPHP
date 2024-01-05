@@ -1,7 +1,12 @@
+<?php
+    require_once 'rota/init.php'
+?>
+
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="css/estilo.css" media="screen">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
@@ -39,17 +44,26 @@
             <p class="Textos"> Selecione uma das categorias abaixo:</p>
             <div class="conteudo">
                 <div class="opcao">
-                    <p>Automoveis</p>
+                    <a href="<?= APP ?>/auto.php" class="btn btn-primary">Automoveis</a>
                 </div>
                 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
                 <div class="opcao">
-                    <p>Imobiliario</p>
+                <a href="<?= APP ?>/auto.php" class="btn btn-primary">Imobiliario</a>
                 </div>
                 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
                 <div class="opcao">
-                    <p>Bebidas</p>
+                <a href="<?= APP ?>/auto.php" class="btn btn-primary">Alimentos</a>
+                </div>
+                &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                <div class="opcao">
+                <a href="<?= APP ?>/auto.php" class="btn btn-primary">Saúde</a>
+                </div>
+                &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                <div class="opcao">
+                <a href="<?= APP ?>/auto.php" class="btn btn-primary">Dropshipping</a>
                 </div>
             </div>
+            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
         </div>
     </div>
 </body>

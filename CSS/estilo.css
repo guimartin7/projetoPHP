@@ -1,3 +1,5 @@
+
+
 .body{
     display: flex;
 }
@@ -43,7 +45,7 @@
     align-items: right;
 }
 
-.conteudo{
+.conteudo, .conteudo-2{
     display: flex;
     align-content: center;
     justify-content: center;
@@ -55,7 +57,7 @@
     align-content: center;
     justify-content: center;
     align-items: center;
-    width: 140px;
+    width: 150px;
     height: 150px;
     border: 5px solid #000000;
     background-color: white;
