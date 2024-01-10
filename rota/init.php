@@ -3,7 +3,7 @@
 	define('DB_HOST', 'localhost');
 	define('DB_USER', 'root');
 	define('DB_PASS', '');
-	define('DB_NAME', 'crud');
+	define('DB_NAME', 'phpproject');
 
 	// Configuração da url da aplicação
 	define('URL', 'http://localhost:80'); 

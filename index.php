@@ -52,7 +52,7 @@
                 </div>
                 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
                 <div class="opcao">
-                <a href="<?= APP ?>alimentos.php" class="btn btn-primary">Alimentos</a>
+                <a href="<?= APP ?>alimentos_index.php" class="btn btn-primary">Alimentos</a>
                 </div>
                 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
                 <div class="opcao">
